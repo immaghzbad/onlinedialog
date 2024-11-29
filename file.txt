@@ -1,0 +1,6 @@
+{
+ "version":"1.2",
+ "title":"اطلاعیه مهم",
+ "description":"برای حمایت از ما لطفا به کانال ما بپیوندید",
+ "download":"https://t.me/powersigma"
+}
