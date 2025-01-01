@@ -1,5 +1,5 @@
 {
   "version": "1.0",
   "info": "Currently, there is no update available, you are using the latest version.",
-  "download_link": "http://example.com/download/latest-version.apk"
+  "download_link": "http://example.com/download/latest-version.apk" 
 }
