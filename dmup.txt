@@ -1,0 +1,5 @@
+{
+  "version": "1.0",
+  "info": "This version includes improvements and some bug fixes. ",
+  "download_link": "http://example.com/download/latest-version.apk"
+}
