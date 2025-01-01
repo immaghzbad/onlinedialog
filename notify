@@ -1,0 +1,9 @@
+{
+    "notification": {
+        "title": "Hello! Welcome to the new notification ",
+        "message": "This is a sample notification message. ",
+        "buttonText": "Learn more ",
+        "buttonLink": "https://t.me/Powersigma",
+        "isConfirmed": true
+    }
+}
