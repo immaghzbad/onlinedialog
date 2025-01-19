@@ -2,5 +2,5 @@
     "key": "123",
     "deviceId": "195d4e064f4da3bc",
     "startDate": "2025-01-01",
-    "endDate": "2025-01-31"
+    "endDate": "2025-01-18"
 }
