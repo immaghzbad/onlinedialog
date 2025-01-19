@@ -1,5 +1,5 @@
 {
     "deviceId": "195d4e064f4da3bc",
     "startDate": "2025\/01\/01",
-    "endDate": "2025\/01\/20"
+    "endDate": "2025\/01\/18"
 }
