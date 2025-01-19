@@ -1,12 +1,12 @@
 [
     {
         "deviceId": "195d4e064f4da3bc",
-        "startDate": "2025/01/01",
-        "endDate": "2025/01/18"
+        "startDate": "2025\/01\/01",
+        "endDate": "2025\/01\/18"
     },
     {
         "deviceId": "abcd1234efgh5678",
-        "startDate": "2025/01/05",
-        "endDate": "2025/01/25"
+        "startDate": "2025\/01\/05",
+        "endDate": "2025\/01\/25"
     }
 ]
